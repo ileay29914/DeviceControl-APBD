@@ -1,0 +1,14 @@
+C:\Users\iren-\RiderProjects\DeviceControl\DeviceControl\bin\Debug\net8.0\DeviceControl.exe
+C:\Users\iren-\RiderProjects\DeviceControl\DeviceControl\bin\Debug\net8.0\DeviceControl.deps.json
+C:\Users\iren-\RiderProjects\DeviceControl\DeviceControl\bin\Debug\net8.0\DeviceControl.runtimeconfig.json
+C:\Users\iren-\RiderProjects\DeviceControl\DeviceControl\bin\Debug\net8.0\DeviceControl.dll
+C:\Users\iren-\RiderProjects\DeviceControl\DeviceControl\bin\Debug\net8.0\DeviceControl.pdb
+C:\Users\iren-\RiderProjects\DeviceControl\DeviceControl\obj\Debug\net8.0\DeviceControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iren-\RiderProjects\DeviceControl\DeviceControl\obj\Debug\net8.0\DeviceControl.AssemblyInfoInputs.cache
+C:\Users\iren-\RiderProjects\DeviceControl\DeviceControl\obj\Debug\net8.0\DeviceControl.AssemblyInfo.cs
+C:\Users\iren-\RiderProjects\DeviceControl\DeviceControl\obj\Debug\net8.0\DeviceControl.csproj.CoreCompileInputs.cache
+C:\Users\iren-\RiderProjects\DeviceControl\DeviceControl\obj\Debug\net8.0\DeviceControl.dll
+C:\Users\iren-\RiderProjects\DeviceControl\DeviceControl\obj\Debug\net8.0\refint\DeviceControl.dll
+C:\Users\iren-\RiderProjects\DeviceControl\DeviceControl\obj\Debug\net8.0\DeviceControl.pdb
+C:\Users\iren-\RiderProjects\DeviceControl\DeviceControl\obj\Debug\net8.0\DeviceControl.genruntimeconfig.cache
+C:\Users\iren-\RiderProjects\DeviceControl\DeviceControl\obj\Debug\net8.0\ref\DeviceControl.dll
