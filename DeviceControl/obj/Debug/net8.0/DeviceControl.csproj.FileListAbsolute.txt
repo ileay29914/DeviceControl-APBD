@@ -12,3 +12,4 @@ C:\Users\iren-\RiderProjects\DeviceControl\DeviceControl\obj\Debug\net8.0\refint
 C:\Users\iren-\RiderProjects\DeviceControl\DeviceControl\obj\Debug\net8.0\DeviceControl.pdb
 C:\Users\iren-\RiderProjects\DeviceControl\DeviceControl\obj\Debug\net8.0\DeviceControl.genruntimeconfig.cache
 C:\Users\iren-\RiderProjects\DeviceControl\DeviceControl\obj\Debug\net8.0\ref\DeviceControl.dll
+C:\Users\iren-\RiderProjects\DeviceControl\DeviceControl\obj\Debug\net8.0\DeviceControl.sourcelink.json

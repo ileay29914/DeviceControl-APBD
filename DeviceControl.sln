@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceControl", "DeviceControl\DeviceControl.csproj", "{7F2E17B3-230C-4C62-858E-E07CB73F5B49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{FAA112B8-39B9-4F7F-9301-883E9FEDDBC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,6 +14,10 @@ Global
 		{7F2E17B3-230C-4C62-858E-E07CB73F5B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F2E17B3-230C-4C62-858E-E07CB73F5B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F2E17B3-230C-4C62-858E-E07CB73F5B49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA112B8-39B9-4F7F-9301-883E9FEDDBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA112B8-39B9-4F7F-9301-883E9FEDDBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA112B8-39B9-4F7F-9301-883E9FEDDBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA112B8-39B9-4F7F-9301-883E9FEDDBC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
